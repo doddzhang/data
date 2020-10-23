@@ -1,4 +1,4 @@
-package com.doddzhang.data;
+package com.doddzhang.data.nlogn;
 
 /**
  * 快速排序
